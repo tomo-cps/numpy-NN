@@ -1,6 +1,6 @@
 # numpy-NN
 ## Neural Networks with only numpy
-You can make your own Neural Network with only numpy to to help you understand the details!! :sushi:
+You can make your own Neural Network with only numpy to help you understand the details!! :sushi:
 ## 1. Dataset
 
 Install the mnist dataset from the code below.
